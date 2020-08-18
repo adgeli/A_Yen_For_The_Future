@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
-- Project Description
-- Installation Requirements
-- File Contents
+- [Project Description](#Project-Objectives)
+- [Installation Requirements](#Installation-Requirements)
+- [File Contents](#File-Contents)
 
 ---
 
