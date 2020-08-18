@@ -1,4 +1,4 @@
-# A_Yen_For_The_Future
+# A Yen For The Future
 
 ![intro_photo](Images/introimg.jpeg)
 
@@ -32,6 +32,30 @@ The second part of this assignment applies a linear regression analysis model to
 
 ### Part 3: Summary of Findings 
 
-The final deliverable summarizes the analysis and findings presented in parts 1 and 2 in the Findings_Summary.md file. 
+The final deliverable summarizes the analysis and findings presented in parts 1 and 2 in the [Summary of Findings](Summary_of_Findings.md)
+
+---
+
+## Installation Requirements
+
+To successfully view parts 1 and 2 of the assignment deliverables; [Time Series Analysis Notebook](Time_Series_Analysis.ipynb) and [Linear Regression Analysis Notebook](Regression_Analysis.ipynb), the following installations are required: 
+
+```
+pip install pandas
+pip instal numpy
+pip install matplotlib
+pip install hvplot
+pip install -U scikit-learn
+pip install statsmodels
+```
+
+---
+
+## File Contents
+
+- [Time Series Analysis](Time_Series_Analysis.ipynb)
+- [Linear Regression Analysis](Regression_Analysis.ipynb)
+- [Summary of Findings](Summary_of_Findings.md)
+- [Unit 10 Instructions](Unit10_Instructions.md)
 
 ---
