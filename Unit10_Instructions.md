@@ -1,6 +1,6 @@
 # Unit 10—A Yen for the Future
 
-![Yen Photo](Images/unit-10-readme-photo.png)
+![Yen Photo](Images/readme-photo.png)
 
 ## Background
 
